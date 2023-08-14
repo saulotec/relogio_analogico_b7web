@@ -5,5 +5,5 @@
 
 <img src=/assets/img/relogio.png>
 
-Projeto desenvolvido bela b7web.
+Projeto desenvolvido por b7web.
 
